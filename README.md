@@ -1,30 +1,147 @@
-<h1 align="center">Hi 👋, I'm Piyush Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush1105&label=Profile%20views&color=0e75b6&style=flat" alt="piyush1105" /> </p>
+<!-- Animated intro -->
+<img src="https://raw.githubusercontent.com/Piyush1105/Piyush1105/main/profile-3d-contrib/profile-night-green.svg" alt="Piyush Yadav 3D Contribution Graph" width="100%" />
 
-- 🌱 I’m currently learning **Nextjs**
+# Hi, I'm Piyush Yadav 👋
 
-- 👯 I’m looking to collaborate on **React Projects**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=14B8A6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Frontend+Engineer+%7C+React+%26+Next.js;Building+fast%2C+motion-driven+UIs;Open+to+collaboration)](https://git.io/typing-svg)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Piyush1105](https://github.com/Piyush1105)
+<img src="https://komarev.com/ghpvc/?username=Piyush1105&label=Profile%20views&color=14b8a6&style=for-the-badge" alt="Profile views" />
 
-- 💬 Ask me about **React, Typescript and JS**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-14b8a6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-piyush1106s-projects.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-yadav-bba013168/)
+[![Email](https://img.shields.io/badge/Email-piyushyadav1105%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushyadav1105@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/19H6rpp0_6Oc5oANLpNma4gyIDr_3j50j/view?usp=sharing)
 
-- 📫 How to reach me **piyushyadav1105@gmail.com**
+</div>
 
-- My Portfolio - [https://portfolio-piyush1106s-projects.vercel.app/]
+---
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/1Rjbi9pk9jAQMKkH5XfH3EytQd4erDeUz/view?usp=sharing)](https://drive.google.com/file/d/19H6rpp0_6Oc5oANLpNma4gyIDr_3j50j/view?usp=sharing)]
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/piyush yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush yadav" height="30" width="40" /></a>
-</p>
+Frontend engineer with **4+ years** of experience building product UIs with **React**, **Next.js**, and **TypeScript**. I care about performance, intentional motion, and clean component architecture.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 💼 Frontend Developer at **HashTrust Technologies**
+- 🎓 M.Tech in AI & DSE @ **IIT Patna**
+- 🔭 Currently crafting immersive, motion-driven web experiences
+- 💬 Ask me about React, Next.js, TypeScript, Redux, and Tailwind CSS
+- ⚡ Fun fact: I still geek out over classic web games and pixel-perfect UI details
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush1105&show_icons=true&locale=en&layout=compact" alt="piyush1105" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyush1105&show_icons=true&locale=en" alt="piyush1105" /></p>
+## Tech Stack
+
+<div align="center">
+
+### Frontend
+
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Redux](https://skillicons.dev/icons?i=redux)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Sass](https://skillicons.dev/icons?i=sass)
+![Material UI](https://skillicons.dev/icons?i=materialui)
+
+### Backend & Tools
+
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Piyush1105&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12)
+
+</div>
+
+---
+
+## Stats
+
+<div align="center">
+
+<a href="https://github.com/Piyush1105">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Piyush1105&show_icons=true&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=00000000" alt="Piyush's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush1105&layout=compact&theme=transparent&hide_border=true&title_color=14b8a6&text_color=c9d1d9&bg_color=00000000" alt="Top languages" />
+</a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush1105&theme=transparent&hide_border=true&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Piyush1105&theme=github-compact&bg_color=0d1117&color=14b8a6&line=2dd4bf&point=5eead4&area=true&hide_border=true)
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Piyush1105/Piyush1105/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Piyush1105/Piyush1105/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Piyush1105/Piyush1105/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyush1105&repo=ipod-CN&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=00000000)](https://github.com/Piyush1105/ipod-CN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyush1105&repo=todo-list-redux&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=00000000)](https://github.com/Piyush1105/todo-list-redux)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyush1105&repo=Simon-Game&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=00000000)](https://github.com/Piyush1105/Simon-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyush1105&repo=scramble_game_react&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=00000000)](https://github.com/Piyush1105/scramble_game_react)
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/piyush-yadav-bba013168/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+</a>
+<a href="mailto:piyushyadav1105@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+</a>
+<a href="https://portfolio-piyush1106s-projects.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+</a>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=120&section=footer" width="100%" alt="wave footer" />
+
+</div>

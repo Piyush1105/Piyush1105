@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated 3D contribution graph -->
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="Piyush Yadav animated 3D contribution graph" width="100%" />
+<img src="https://raw.githubusercontent.com/Piyush1105/Piyush1105/main/profile-3d-contrib/profile-green-animate.svg" alt="Piyush Yadav animated 3D contribution graph" width="100%" />
 
 # Hi, I'm Piyush Yadav 👋
 
@@ -63,26 +63,28 @@ Frontend engineer with **4+ years** of experience building product UIs with **Re
 
 ---
 
-## GitHub Trophies
+## GitHub Stats
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Piyush1105&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Piyush1105&show_icons=true&theme=tokyonight&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=0d1117" alt="Piyush's GitHub stats" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Piyush1105&layout=compact&theme=tokyonight&hide_border=true&title_color=14b8a6&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Piyush1105&theme=tokyonight&hide_border=true&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## Stats
+## Profile Summary
 
 <div align="center">
 
-<a href="https://github.com/Piyush1105">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Piyush1105&show_icons=true&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=00000000" alt="Piyush's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush1105&layout=compact&theme=transparent&hide_border=true&title_color=14b8a6&text_color=c9d1d9&bg_color=00000000" alt="Top languages" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyush1105&theme=2077" alt="Profile details" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyush1105&theme=2077" alt="Contribution stats" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush1105&theme=transparent&hide_border=true&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyush1105&theme=2077" alt="Repos per language" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Piyush1105&theme=2077" alt="Most commit language" width="49%" />
 
 </div>
 
@@ -92,18 +94,8 @@ Frontend engineer with **4+ years** of experience building product UIs with **Re
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D night green contribution graph" width="48%" />
-<img src="./profile-3d-contrib/profile-season-animate.svg" alt="Animated seasonal 3D contribution graph" width="48%" />
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Piyush1105&theme=github-compact&bg_color=0d1117&color=14b8a6&line=2dd4bf&point=5eead4&area=true&hide_border=true)
+<img src="https://raw.githubusercontent.com/Piyush1105/Piyush1105/main/profile-3d-contrib/profile-night-green.svg" alt="3D night green contribution graph" width="48%" />
+<img src="https://raw.githubusercontent.com/Piyush1105/Piyush1105/main/profile-3d-contrib/profile-season-animate.svg" alt="Animated seasonal 3D contribution graph" width="48%" />
 
 </div>
 
@@ -127,11 +119,19 @@ Frontend engineer with **4+ years** of experience building product UIs with **Re
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyush1105&repo=ipod-CN&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=00000000)](https://github.com/Piyush1105/ipod-CN)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyush1105&repo=todo-list-redux&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=00000000)](https://github.com/Piyush1105/todo-list-redux)
+<a href="https://github.com/Piyush1105/ipod-CN">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyush1105&repo=ipod-CN&theme=tokyonight&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=0d1117" alt="React iPod" />
+</a>
+<a href="https://github.com/Piyush1105/todo-list-redux">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyush1105&repo=todo-list-redux&theme=tokyonight&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=0d1117" alt="Redux Todo App" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyush1105&repo=Simon-Game&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=00000000)](https://github.com/Piyush1105/Simon-Game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyush1105&repo=scramble_game_react&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=00000000)](https://github.com/Piyush1105/scramble_game_react)
+<a href="https://github.com/Piyush1105/Simon-Game">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyush1105&repo=Simon-Game&theme=tokyonight&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=0d1117" alt="Simon Memory Game" />
+</a>
+<a href="https://github.com/Piyush1105/scramble_game_react">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyush1105&repo=scramble_game_react&theme=tokyonight&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=0d1117" alt="Word Scramble" />
+</a>
 
 </div>
 
@@ -142,10 +142,10 @@ Frontend engineer with **4+ years** of experience building product UIs with **Re
 <div align="center">
 
 <a href="https://www.linkedin.com/in/piyush-yadav-bba013168/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:piyushyadav1105@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://portfolio-piyush1106s-projects.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />

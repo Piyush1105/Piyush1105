@@ -67,24 +67,13 @@ Frontend engineer with **4+ years** of experience building product UIs with **Re
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Piyush1105&show_icons=true&theme=tokyonight&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=0d1117" alt="Piyush's GitHub stats" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Piyush1105&layout=compact&theme=tokyonight&hide_border=true&title_color=14b8a6&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=Piyush1105&theme=tokyonight&hide_border=true&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6&background=0D1117" alt="GitHub Streak" />
-
-</div>
-
----
-
-## Profile Summary
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyush1105&theme=2077" alt="Profile details" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyush1105&theme=2077" alt="Contribution stats" width="49%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyush1105&theme=2077" alt="Repos per language" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Piyush1105&theme=2077" alt="Most commit language" width="49%" />
+
+<img src="https://streak-stats.demolab.com/?user=Piyush1105&theme=tokyonight&hide_border=true&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
@@ -117,23 +106,52 @@ Frontend engineer with **4+ years** of experience building product UIs with **Re
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Piyush1105/ipod-CN">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyush1105&repo=ipod-CN&theme=tokyonight&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=0d1117" alt="React iPod" />
-</a>
-<a href="https://github.com/Piyush1105/todo-list-redux">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyush1105&repo=todo-list-redux&theme=tokyonight&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=0d1117" alt="Redux Todo App" />
-</a>
-
-<a href="https://github.com/Piyush1105/Simon-Game">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyush1105&repo=Simon-Game&theme=tokyonight&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=0d1117" alt="Simon Memory Game" />
-</a>
-<a href="https://github.com/Piyush1105/scramble_game_react">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyush1105&repo=scramble_game_react&theme=tokyonight&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=0d1117" alt="Word Scramble" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Piyush1105/ipod-CN">
+        <img src="https://raw.githubusercontent.com/Piyush1105/Piyush1105/main/assets/projects/ipod-CN.png" alt="React iPod preview" width="100%" />
+      </a>
+      <br />
+      <strong>React iPod</strong><br />
+      A nostalgic iPod clone built with React — browse playlists, control playback with a click-wheel, and enjoy the classic UI with modern web tech.
+      <br /><br />
+      <a href="https://github.com/Piyush1105/ipod-CN">Code</a> · <a href="https://piyush1105.github.io/ipod-CN/">Live</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Piyush1105/todo-list-redux">
+        <img src="https://raw.githubusercontent.com/Piyush1105/Piyush1105/main/assets/projects/todo-list-redux.png" alt="Redux Todo App preview" width="100%" />
+      </a>
+      <br />
+      <strong>Redux Todo App</strong><br />
+      A task manager powered by Redux for predictable state management. Add, toggle, and filter tasks with persistent state across sessions.
+      <br /><br />
+      <a href="https://github.com/Piyush1105/todo-list-redux">Code</a> · <a href="https://piyush1105.github.io/todo-list-redux/">Live</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Piyush1105/Simon-Game">
+        <img src="https://raw.githubusercontent.com/Piyush1105/Piyush1105/main/assets/projects/Simon-Game.png" alt="Simon Memory Game preview" width="100%" />
+      </a>
+      <br />
+      <strong>Simon Memory Game</strong><br />
+      The classic memory game — repeat the growing sequence of colored pads. Built with vanilla JavaScript and Web Audio API for sound feedback.
+      <br /><br />
+      <a href="https://github.com/Piyush1105/Simon-Game">Code</a> · <a href="https://piyush1105.github.io/Simon-Game/">Live</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Piyush1105/scramble_game_react">
+        <img src="https://raw.githubusercontent.com/Piyush1105/Piyush1105/main/assets/projects/scramble_game_react.png" alt="Word Scramble preview" width="100%" />
+      </a>
+      <br />
+      <strong>Word Scramble</strong><br />
+      A React word-scramble game using useState and useEffect hooks. Race against the clock to unscramble letters and guess the hidden word.
+      <br /><br />
+      <a href="https://github.com/Piyush1105/scramble_game_react">Code</a> · <a href="https://piyush1105.github.io/scramble_game_react/">Live</a>
+    </td>
+  </tr>
+</table>
 
 ---
 

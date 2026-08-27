@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated intro -->
-<img src="https://raw.githubusercontent.com/Piyush1105/Piyush1105/main/profile-3d-contrib/profile-night-green.svg" alt="Piyush Yadav 3D Contribution Graph" width="100%" />
+<!-- Animated 3D contribution graph -->
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="Piyush Yadav animated 3D contribution graph" width="100%" />
 
 # Hi, I'm Piyush Yadav 👋
 
@@ -83,6 +83,17 @@ Frontend engineer with **4+ years** of experience building product UIs with **Re
 </a>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush1105&theme=transparent&hide_border=true&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 3D Contribution Views
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D night green contribution graph" width="48%" />
+<img src="./profile-3d-contrib/profile-season-animate.svg" alt="Animated seasonal 3D contribution graph" width="48%" />
 
 </div>
 
